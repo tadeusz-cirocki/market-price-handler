@@ -1,7 +1,5 @@
 package price;
 
-import java.util.Arrays;
-
 import price.interfaces.MarketPriceSubscriber;
 
 public class CsvPriceFeedSubscriber implements MarketPriceSubscriber {
